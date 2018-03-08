@@ -1,3 +1,9 @@
+## 重要提示
+如果你是新接入 COS SDK的用户，<font color=red>**请勿接入该版本的SDK**</font>。    
+
+对于新接入 COS SDK的用户，我们推荐使用[基于 XML API 封装的SDK](https://cloud.tencent.com/document/product/436/11280)。如果是因为种种原因仍需要使用基于 JSON API 封装的 SDK , 请使用[重构的 V4 SDK](https://github.com/tencentyun/qcloud-sdk-ios/tree/master/QCloudNewCOSV4)。    
+
+
 ## 开发准备
 
 ### SDK 获取
